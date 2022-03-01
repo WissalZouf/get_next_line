@@ -6,13 +6,11 @@
 /*   By: wzouf <wzouf@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/01 19:02:21 by wzouf             #+#    #+#             */
-/*   Updated: 2022/03/01 19:04:22 by wzouf            ###   ########.fr       */
+/*   Updated: 2022/03/01 23:05:12 by wzouf            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-
-#include <stdio.h>
 
 char	*get_line( char	**str, char	*line )
 {
